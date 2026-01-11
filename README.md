@@ -55,6 +55,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - Return of the Encoder: Efficient Small Language Models, arXiv 2025. [Paper](https://arxiv.org/pdf/2501.16273), [Github](https://github.com/microsoft/encoder-decoder-slm) ![Stars](https://img.shields.io/github/stars/microsoft/encoder-decoder-slm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/encoder-decoder-slm) `Encoder-decoder models inherently outperform decoder-only architectures before any optimizations.`
 
 ## SmallLMs
+- Qwen3. `0.6B-235B` [Paper](https://arxiv.org/abs/2505.09388) [Github](https://github.com/QwenLM/Qwen3) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3)
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
 - SmallDoge: Ultra-Fast Small Language Models, `20M-320M`, [Github](https://github.com/SmallDoges/small-doge) ![Stars](https://img.shields.io/github/stars/SmallDoges/small-doge?style=social) ![Last Commit](https://img.shields.io/github/last-commit/SmallDoges/small-doge)  
 - SmolLM2 (Language Model), `135M-1.7B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
@@ -65,6 +66,13 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 
 ##  SmallVLMs
+- , , [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
+- NVILA: Optimized Vision Language Models, NVIDIA. `2B-15B`. [Model](https://huggingface.co/collections/Efficient-Large-Model/nvila) [Github](https://github.com/NVlabs/VILA) ![Stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/NVlabs/VILA)
+- Fine-tuning Qwen-VL Series. [Github](https://github.com/2U1/Qwen-VL-Series-Finetune) ![Stars](https://img.shields.io/github/stars/2U1/Qwen-VL-Series-Finetune?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2U1/Qwen-VL-Series-Finetune)
+-  Qwen3-Embedding and Qwen3-Reranker. `0.6B-8B`  [Github](https://github.com/QwenLM/Qwen3-VL-Embedding) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL-Embedding?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL-Embedding)
+- Qwen3-VL. `2B-235B` [Paper](https://arxiv.org/pdf/2511.21631) [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
+- Qwen3+SmolVLM: 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调. [Github](https://github.com/ShaohonChen/Qwen3-SmVL) ![Stars](https://img.shields.io/github/stars/ShaohonChen/Qwen3-SmVL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShaohonChen/Qwen3-SmVL)
+- Qwen2.5-VL. `3B-72B` [Paper](https://arxiv.org/abs/2502.13923) [Model](https://huggingface.co/collections/Qwen/qwen25-vl) [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
 - Smol Vision: Recipes for shrinking, optimizing, customizing cutting edge vision and multimodal AI models. [Github](https://github.com/merveenoyan/smol-vision) ![Stars](https://img.shields.io/github/stars/merveenoyan/smol-vision?style=social) ![Last Commit](https://img.shields.io/github/last-commit/merveenoyan/smol-vision)
 - SmolVLM (Vision Language Model), `236M-2B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
 - nanoVLM: The simplest repository to train your VLM in pure PyTorch, `222M`, [Github](https://github.com/huggingface/nanoVLM) ![Stars](https://img.shields.io/github/stars/huggingface/nanoVLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/nanoVLM)
@@ -84,4 +92,3 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation, R-AL 2025. `400M-1.3B`, [Paper](https://arxiv.org/abs/2409.12514), [Github](https://github.com/liyaxuanliyaxuan/TinyVLA) ![Stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/liyaxuanliyaxuan/TinyVLA)
 
 
-- , , [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
