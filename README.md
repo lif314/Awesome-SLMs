@@ -98,5 +98,5 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 ## SpatialVLMs
 > [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
-- DepthLM: Metric Depth From Vision Language Models, arxiv 2025. [Paper](https://arxiv.org/abs/2509.25413) [Model](https://huggingface.co/facebook/DepthLM) [Github](https://github.com/facebookresearch/DepthLM_Official) ![Stars](https://img.shields.io/github/stars/acebookresearch/DepthLM_Official?style=social) ![Last Commit](https://img.shields.io/github/last-commit/acebookresearch/DepthLM_Official)
+- DepthLM: Metric Depth From Vision Language Models, arxiv 2025. [Paper](https://arxiv.org/abs/2509.25413) [Model](https://huggingface.co/facebook/DepthLM) [Github](https://github.com/facebookresearch/DepthLM_Official) ![Stars](https://img.shields.io/github/stars/facebookresearch/DepthLM_Official?style=social) ![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/DepthLM_Official)
 
