@@ -21,6 +21,8 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - Smol Vision: Recipes for shrinking, optimizing, customizing cutting edge vision and multimodal AI models. [Github](https://github.com/merveenoyan/smol-vision) ![Stars](https://img.shields.io/github/stars/merveenoyan/smol-vision?style=social) ![Last Commit](https://img.shields.io/github/last-commit/merveenoyan/smol-vision)
 - Phi Cookbook: Hands-On Examples with Microsoft's Phi Models. [Github](https://github.com/microsoft/PhiCookBook) ![Stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/PhiCookBook)
 
+- An Information Theoretic Perspective on Agentic System Design, arXiv 2025. [Paper](https://www.arxiv.org/abs/2512.21720) `SLMs are all you need in Agent system.`
+
 ## Small Language Models
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
 - SmallDoge: Ultra-Fast Small Language Models, 20M-320M, [Github](https://github.com/SmallDoges/small-doge) ![Stars](https://img.shields.io/github/stars/SmallDoges/small-doge?style=social) ![Last Commit](https://img.shields.io/github/last-commit/SmallDoges/small-doge)  
