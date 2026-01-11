@@ -18,13 +18,13 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
       <a href="#Insights">Insights</a>
     </li>
     <li>
-      <a href="#SmallLanguageModels">Small Language Models</a>
+      <a href="#SmallLMs">SmallLMs</a>
     </li>
     <li>
-      <a href="#SmallVisionLanguageModels">Small Vision-Language Models</a>
+      <a href="#SmallVLMs">SmallVLMs</a>
     </li>
     <li>
-      <a href="#SmallVisionLanguageActionModels">Small Vision-Language-Action Models</a>
+      <a href="#SmallVLAs">SmallVLAs</a>
     </li>
   </ol>
 </details>
@@ -53,7 +53,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - An Information Theoretic Perspective on Agentic System Design, arXiv 2025. [Paper](https://www.arxiv.org/abs/2512.21720) `SLMs are all you need in Agent system.`
 - Dhara-70M: The Optimal Architecture for Small Language Models. `70M` [Blog](https://huggingface.co/blog/codelion/optimal-model-architecture) [Model](https://huggingface.co/codelion/dhara-70m)
 
-## Small Language Models
+## SmallLMs
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
 - SmallDoge: Ultra-Fast Small Language Models, `20M-320M`, [Github](https://github.com/SmallDoges/small-doge) ![Stars](https://img.shields.io/github/stars/SmallDoges/small-doge?style=social) ![Last Commit](https://img.shields.io/github/last-commit/SmallDoges/small-doge)  
 - SmolLM2 (Language Model), `135M-1.7B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
@@ -63,7 +63,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - Return of the Encoder: Efficient Small Language Models, arXiv 2025. [Paper](https://arxiv.org/pdf/2501.16273), [Github](https://github.com/microsoft/encoder-decoder-slm) ![Stars](https://img.shields.io/github/stars/microsoft/encoder-decoder-slm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/encoder-decoder-slm)
 
 
-##  Small Vision-Language Models
+##  SmallVLMs
 - Smol Vision: Recipes for shrinking, optimizing, customizing cutting edge vision and multimodal AI models. [Github](https://github.com/merveenoyan/smol-vision) ![Stars](https://img.shields.io/github/stars/merveenoyan/smol-vision?style=social) ![Last Commit](https://img.shields.io/github/last-commit/merveenoyan/smol-vision)
 - SmolVLM (Vision Language Model), `236M-2B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
 - nanoVLM: The simplest repository to train your VLM in pure PyTorch, `222M`, [Github](https://github.com/huggingface/nanoVLM) ![Stars](https://img.shields.io/github/stars/huggingface/nanoVLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/nanoVLM)
@@ -75,7 +75,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - FastVLM: Efficient Vision Encoding for Vision Language Models, CVPR 2025. `0.5B/1.5B/7B`, [Paper](https://www.arxiv.org/abs/2412.13303), [Github](https://github.com/apple/ml-fastvlm) ![Stars](https://img.shields.io/github/stars/apple/ml-fastvlm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/apple/ml-fastvlm)
 - From Pixels to Words -- Towards Native Vision-Language Primitives at Scale, arXiv 2025. `2B/9B`, [Paper](https://arxiv.org/abs/2510.14979),  [Github](https://github.com/EvolvingLMMs-Lab/NEO) ![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/NEO?style=social) ![Last Commit](https://img.shields.io/github/last-commit/EvolvingLMMs-Lab/NEO)
 
-## Small Vision-Language-Action Models
+## SmallVLAs
 - [Awesome Vision Language Action (VLA) Models](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln?tab=readme-ov-file#-vision-language-action-vla-models) ![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-embodied-vla-va-vln)
 - SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics, `0.24B-2.25B`, [Paper](https://arxiv.org/abs/2506.01844), [Github](https://github.com/huggingface/lerobot) ![Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/lerobot)
 - X-VLA: Soft-Prompted Transformer as a Scalable Cross-Embodiment Vision-Language-Action Model, `0.9B`, [Paper](https://arxiv.org/pdf/2510.10274), [Github](https://github.com/2toinf/X-VLA) ![Stars](https://img.shields.io/github/stars/2toinf/X-VLA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2toinf/X-VLA)
