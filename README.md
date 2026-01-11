@@ -52,6 +52,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 ## Insights
 - An Information Theoretic Perspective on Agentic System Design, arXiv 2025. [Paper](https://www.arxiv.org/abs/2512.21720) `SLMs are all you need in Agent system.`
 - Dhara-70M: The Optimal Architecture for Small Language Models. `70M` [Blog](https://huggingface.co/blog/codelion/optimal-model-architecture) [Model](https://huggingface.co/codelion/dhara-70m) `For SLMs, the depth-to-width ratio is more important than the model architecture.`
+- Return of the Encoder: Efficient Small Language Models, arXiv 2025. [Paper](https://arxiv.org/pdf/2501.16273), [Github](https://github.com/microsoft/encoder-decoder-slm) ![Stars](https://img.shields.io/github/stars/microsoft/encoder-decoder-slm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/encoder-decoder-slm) `Encoder-decoder models inherently outperform decoder-only architectures before any optimizations.`
 
 ## SmallLMs
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
@@ -60,7 +61,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - SmolLM3 (Language Model), `3B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
 - SLM-SQL: An Exploration of Small Language Models for Text-to-SQL. [Paper](https://arxiv.org/abs/2507.22478), [Github](https://github.com/CycloneBoy/slm_sql) ![Stars](https://img.shields.io/github/stars/CycloneBoy/slm_sql?style=social) ![Last Commit](https://img.shields.io/github/last-commit/CycloneBoy/slm_sql)
 - Tiny language models (pre-training and fine-tuning a compact BERT model ). [Paper](https://arxiv.org/abs/2507.14871),[Github](https://github.com/Rg32601/Tiny-Language-Models) ![Stars](https://img.shields.io/github/stars/Rg32601/Tiny-Language-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Rg32601/Tiny-Language-Models)
-- Return of the Encoder: Efficient Small Language Models, arXiv 2025. [Paper](https://arxiv.org/pdf/2501.16273), [Github](https://github.com/microsoft/encoder-decoder-slm) ![Stars](https://img.shields.io/github/stars/microsoft/encoder-decoder-slm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/encoder-decoder-slm)
+
 
 
 ##  SmallVLMs
