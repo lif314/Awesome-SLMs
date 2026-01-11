@@ -26,6 +26,9 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
     <li>
       <a href="#SmallVLAs">SmallVLAs</a>
     </li>
+     <li>
+      <a href="#SpatialVLMs">SpatialVLMs</a>
+    </li>
   </ol>
 </details>
 
@@ -55,6 +58,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - Return of the Encoder: Efficient Small Language Models, arXiv 2025. [Paper](https://arxiv.org/pdf/2501.16273), [Github](https://github.com/microsoft/encoder-decoder-slm) ![Stars](https://img.shields.io/github/stars/microsoft/encoder-decoder-slm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/encoder-decoder-slm) `Encoder-decoder models inherently outperform decoder-only architectures before any optimizations.`
 
 ## SmallLMs
+> [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
 - Qwen3. `0.6B-235B` [Paper](https://arxiv.org/abs/2505.09388) [Github](https://github.com/QwenLM/Qwen3) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3)
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
 - SmallDoge: Ultra-Fast Small Language Models, `20M-320M`, [Github](https://github.com/SmallDoges/small-doge) ![Stars](https://img.shields.io/github/stars/SmallDoges/small-doge?style=social) ![Last Commit](https://img.shields.io/github/last-commit/SmallDoges/small-doge)  
@@ -66,7 +70,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 
 ##  SmallVLMs
-- , , [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
+> [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
 - NVILA: Optimized Vision Language Models, NVIDIA. `2B-15B`. [Model](https://huggingface.co/collections/Efficient-Large-Model/nvila) [Github](https://github.com/NVlabs/VILA) ![Stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/NVlabs/VILA)
 - Fine-tuning Qwen-VL Series. [Github](https://github.com/2U1/Qwen-VL-Series-Finetune) ![Stars](https://img.shields.io/github/stars/2U1/Qwen-VL-Series-Finetune?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2U1/Qwen-VL-Series-Finetune)
 -  Qwen3-Embedding and Qwen3-Reranker. `0.6B-8B`  [Github](https://github.com/QwenLM/Qwen3-VL-Embedding) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL-Embedding?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL-Embedding)
@@ -85,10 +89,14 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - From Pixels to Words -- Towards Native Vision-Language Primitives at Scale, arXiv 2025. `2B/9B`, [Paper](https://arxiv.org/abs/2510.14979),  [Github](https://github.com/EvolvingLMMs-Lab/NEO) ![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/NEO?style=social) ![Last Commit](https://img.shields.io/github/last-commit/EvolvingLMMs-Lab/NEO)
 
 ## SmallVLAs
+> [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
 - [Awesome Vision Language Action (VLA) Models](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln?tab=readme-ov-file#-vision-language-action-vla-models) ![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-embodied-vla-va-vln)
 - SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics, `0.24B-2.25B`, [Paper](https://arxiv.org/abs/2506.01844), [Github](https://github.com/huggingface/lerobot) ![Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/lerobot)
 - X-VLA: Soft-Prompted Transformer as a Scalable Cross-Embodiment Vision-Language-Action Model, `0.9B`, [Paper](https://arxiv.org/pdf/2510.10274), [Github](https://github.com/2toinf/X-VLA) ![Stars](https://img.shields.io/github/stars/2toinf/X-VLA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2toinf/X-VLA)
 - VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model, `0.5B`, [Paper](https://arxiv.org/abs/2509.09372), [Github](https://github.com/OpenHelix-Team/VLA-Adapter) ![Stars](https://img.shields.io/github/stars/OpenHelix-Team/VLA-Adapter?style=social) ![Last Commit](https://img.shields.io/github/last-commit/OpenHelix-Team/VLA-Adapter)
 - TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation, R-AL 2025. `400M-1.3B`, [Paper](https://arxiv.org/abs/2409.12514), [Github](https://github.com/liyaxuanliyaxuan/TinyVLA) ![Stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/liyaxuanliyaxuan/TinyVLA)
 
+## SpatialVLMs
+> [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
+- DepthLM: Metric Depth From Vision Language Models, arxiv 2025. [Paper](https://arxiv.org/abs/2509.25413) [Model](https://huggingface.co/facebook/DepthLM) [Github](https://github.com/facebookresearch/DepthLM_Official) ![Stars](https://img.shields.io/github/stars/acebookresearch/DepthLM_Official?style=social) ![Last Commit](https://img.shields.io/github/last-commit/acebookresearch/DepthLM_Official)
 
