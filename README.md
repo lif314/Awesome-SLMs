@@ -59,6 +59,10 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 ## SmallLMs
 > [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
+
+- MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes, arXiv 2025, Facebook. `140M/360M/950M` [Paper](https://arxiv.org/abs/2509.24945) [Model](https://huggingface.co/collections/facebook/mobilellm-r1) [Github](https://github.com/facebookresearch/MobileLLM-R1) ![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM-R1?style=social) ![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/MobileLLM-R1)
+- MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases, ICML 2024. Facebook.  `125M-1.5B` [Paper](https://arxiv.org/abs/2402.14905) [Model](https://huggingface.co/collections/facebook/mobilellm) [Github](https://github.com/facebookresearch/MobileLLM) ![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/MobileLLM)
+
 - Qwen3. `0.6B-235B` [Paper](https://arxiv.org/abs/2505.09388) [Github](https://github.com/QwenLM/Qwen3) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3)
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
 - SmallDoge: Ultra-Fast Small Language Models, `20M-320M`, [Github](https://github.com/SmallDoges/small-doge) ![Stars](https://img.shields.io/github/stars/SmallDoges/small-doge?style=social) ![Last Commit](https://img.shields.io/github/last-commit/SmallDoges/small-doge)  
@@ -74,9 +78,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - NVILA: Optimized Vision Language Models, NVIDIA. `2B-15B`. [Model](https://huggingface.co/collections/Efficient-Large-Model/nvila) [Github](https://github.com/NVlabs/VILA) ![Stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/NVlabs/VILA)
 - Fine-tuning Qwen-VL Series. [Github](https://github.com/2U1/Qwen-VL-Series-Finetune) ![Stars](https://img.shields.io/github/stars/2U1/Qwen-VL-Series-Finetune?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2U1/Qwen-VL-Series-Finetune)
 -  Qwen3-Embedding and Qwen3-Reranker. `0.6B-8B`  [Github](https://github.com/QwenLM/Qwen3-VL-Embedding) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL-Embedding?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL-Embedding)
-- :fire: Qwen3-VL. `2B-235B` [Paper](https://arxiv.org/pdf/2511.21631) [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
 - Qwen3+SmolVLM: 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调. [Github](https://github.com/ShaohonChen/Qwen3-SmVL) ![Stars](https://img.shields.io/github/stars/ShaohonChen/Qwen3-SmVL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShaohonChen/Qwen3-SmVL)
-- Qwen2.5-VL. `3B-72B` [Paper](https://arxiv.org/abs/2502.13923) [Model](https://huggingface.co/collections/Qwen/qwen25-vl) [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
 - Smol Vision: Recipes for shrinking, optimizing, customizing cutting edge vision and multimodal AI models. [Github](https://github.com/merveenoyan/smol-vision) ![Stars](https://img.shields.io/github/stars/merveenoyan/smol-vision?style=social) ![Last Commit](https://img.shields.io/github/last-commit/merveenoyan/smol-vision)
 - SmolVLM (Vision Language Model), `236M-2B`, [Github](https://github.com/huggingface/smollm) ![Stars](https://img.shields.io/github/stars/huggingface/smollm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smollm)
 - nanoVLM: The simplest repository to train your VLM in pure PyTorch, `222M`, [Github](https://github.com/huggingface/nanoVLM) ![Stars](https://img.shields.io/github/stars/huggingface/nanoVLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/nanoVLM)
@@ -84,9 +86,61 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 - Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models, `0.2B/0.7B`, [Github](https://github.com/andimarafioti/florence2-finetuning) ![Stars](https://img.shields.io/github/stars/andimarafioti/florence2-finetuning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/andimarafioti/florence2-finetuning)
 - Bunny: A family of lightweight multimodal models. [Paper](https://arxiv.org/abs/2402.11530), [Github](https://github.com/BAAI-DCAI/Bunny) ![Stars](https://img.shields.io/github/stars/BAAI-DCAI/Bunny?style=social) ![Last Commit](https://img.shields.io/github/last-commit/BAAI-DCAI/Bunny)
 - Moondream: a tiny vision language model that kicks ass and runs anywhere. `0.5B/2B`, [Github](https://github.com/vikhyat/moondream) ![Stars](https://img.shields.io/github/stars/vikhyat/moondream?style=social) ![Last Commit](https://img.shields.io/github/last-commit/vikhyat/moondream)
-- MobileVLM: Vision Language Model for Mobile Devices. `1.4B/2.7B`, [Paper](https://arxiv.org/abs/2312.16886), [Github](https://github.com/Meituan-AutoML/MobileVLM) ![Stars](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Meituan-AutoML/MobileVLM)
 - FastVLM: Efficient Vision Encoding for Vision Language Models, CVPR 2025. `0.5B/1.5B/7B`, [Paper](https://www.arxiv.org/abs/2412.13303), [Github](https://github.com/apple/ml-fastvlm) ![Stars](https://img.shields.io/github/stars/apple/ml-fastvlm?style=social) ![Last Commit](https://img.shields.io/github/last-commit/apple/ml-fastvlm)
 - From Pixels to Words -- Towards Native Vision-Language Primitives at Scale, arXiv 2025. `2B/9B`, [Paper](https://arxiv.org/abs/2510.14979),  [Github](https://github.com/EvolvingLMMs-Lab/NEO) ![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/NEO?style=social) ![Last Commit](https://img.shields.io/github/last-commit/EvolvingLMMs-Lab/NEO)
+
+**Qwen-VL Series**
+- **Qwen-VL**: Initial large vision-language model with multilingual support, grounding, and fine-grained understanding. `7B`, [Paper](https://arxiv.org/abs/2308.12966), [Github](https://github.com/QwenLM/Qwen-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen-VL)
+
+- **Qwen2-VL**: Enhanced perception at any resolution with dynamic resolution support. `2B/7B/72B`, [Paper](https://arxiv.org/abs/2409.12191), [Model](https://huggingface.co/collections/Qwen/qwen2-vl), [Github](https://github.com/QwenLM/Qwen3-VL)
+
+- **Qwen2.5-VL**: Flagship upgrade with improved visual recognition, object localization, document parsing, long-video understanding, and visual agent capabilities. `3B/7B/32B/72B`, [Paper](https://arxiv.org/abs/2502.13923), [Model](https://huggingface.co/collections/Qwen/qwen25-vl), [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
+
+- **Qwen3-VL**: Latest generation with comprehensive upgrades in vision, reasoning, and multimodal capabilities (including thinking modes). `2B-235B`, [Blog](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef), [Model](https://huggingface.co/collections/Qwen/qwen3-vl), [Github](https://github.com/QwenLM/Qwen3-VL) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL)
+
+
+
+**LLaVA Series**
+- **LLaVA**: Large Language and Vision Assistant. `7B/13B`, [Paper](https://arxiv.org/abs/2304.08485), [Github](https://github.com/haotian-liu/LLaVA) ![Stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/haotian-liu/LLaVA)
+
+- **LLaVA-1.5**: Improved LLaVA with MLP projector and better training data. `7B/13B`, [Paper](https://arxiv.org/abs/2310.03744), [Github](https://github.com/haotian-liu/LLaVA) ![Stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/haotian-liu/LLaVA)
+
+- **LLaVA-NeXT (LLaVA-1.6)**: Enhanced reasoning, OCR, world knowledge, higher resolution support. `7B/8B/13B/34B/72B/110B`, [Blog/Paper](https://llava-vl.github.io/blog/2024-01-30-llava-next/), [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) ![Stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LLaVA-VL/LLaVA-NeXT)
+
+- **MobileVLM v1/v2**: Vision Language Model for Mobile Devices. `1.4B/2.7B` (v1), `1.7B/3B` (v2), [Paper v1](https://arxiv.org/abs/2312.16886) / [Paper v2](https://arxiv.org/abs/2402.03766), [Github](https://github.com/Meituan-AutoML/MobileVLM) ![Stars](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Meituan-AutoML/MobileVLM)
+
+- **TinyLLaVA**: Framework for small-scale LLaVA models, focusing on lightweight deployment. `0.5B-3B`, [Paper](https://arxiv.org/abs/2402.14289), [Github](https://github.com/TinyLLaVA/TinyLLaVA_Factory) ![Stars](https://img.shields.io/github/stars/TinyLLaVA/TinyLLaVA_Factory?style=social) ![Last Commit](https://img.shields.io/github/last-commit/TinyLLaVA/TinyLLaVA_Factory)
+
+- **LLaVA-Mini**: Efficient Image/Video LMM with one vision token compression. `~8B`, [Paper](https://arxiv.org/abs/2501.03895), [Github](https://github.com/ictnlp/LLaVA-Mini) ![Stars](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ictnlp/LLaVA-Mini)
+
+- **MoE-LLaVA**: Mixture-of-Experts based lightweight LLaVA. `2B-7B`, [Paper](https://arxiv.org/abs/2404.03768), [Github](https://github.com/PKU-YuanGroup/MoE-LLaVA)
+
+---
+
+- **SmolVLM / SmolVLM2**: Ultra-efficient family designed for consumer devices, including video understanding in tiny sizes. `256M/500M/2.2B`, [Blog SmolVLM](https://huggingface.co/blog/smolvlm), [Blog SmolVLM2](https://huggingface.co/blog/smolvlm2), [Model Collection](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7)
+
+- **DeepSeek-VL**: MoE-based lightweight VLM excelling in reasoning and scientific tasks. `1.3B`, [Paper](https://arxiv.org/abs/2403.05525), [Model](https://huggingface.co/deepseek-ai/deepseek-vl-1.3b-chat) [Github](https://github.com/deepseek-ai/DeepSeek-VL) 
+
+- **MiniCPM-V**: Efficient multimodal model strong in OCR, charts, and mobile/edge deployment. `4B-12B`, [Model](https://huggingface.co/openbmb/MiniCPM-V-2_6) [Github](https://github.com/OpenBMB/MiniCPM-V)
+
+
+- **Phi-3-Vision / Phi-4 Multimodal**: Microsoft's small efficient VLM with strong OCR and reasoning. `~3B-4B` (vision variants), [Paper](https://arxiv.org/abs/2404.14219), [Model](https://huggingface.co/collections/microsoft/phi-3-vision)
+
+- **PaliGemma**: Fine-tunable small VLM with SigLIP encoder. `3B` (smallest variant), [Paper](https://arxiv.org/abs/2407.07726), [Model](https://huggingface.co/google/paligemma-3b-mix-224)
+
+- **Ministral 3B**: Mistral AI's edge-focused multimodal model with image understanding, reasoning, and efficient on-device deployment. `3B`, [Blog](https://mistral.ai/news/ministral-3), [Model](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512)
+
+- **Moondream2**: Compact vision-language model excels in detailed image description and VQA, highly efficient for mobile/edge. `~1.8B-2B`, [Github](https://github.com/vikhyat/moondream), [Model](https://huggingface.co/vikhyatk/moondream2)
+
+- **Molmo-1B**: Allen AI's open-source VLM with strong performance in visual reasoning and understanding, competitive with larger models. `1B`, [Blog](https://molmo.allenai.org/blog), [Model](https://huggingface.co/allenai/molmo-1b)
+
+- **Gemma 3 Multimodal (small variants)**: Google's lightweight multimodal extension with high-res support and long context. `~2B-4B` (effective small), [Blog](https://deepmind.google/technologies/gemma/), [Model](https://huggingface.co/google/gemma-3-multimodal)
+
+- **PaddleOCR-VL**: Ultra-lightweight OCR-focused VLM with dynamic resolution for document parsing. `0.9B`, [Paper](https://arxiv.org/abs/2510.14528), [Github](https://github.com/PaddlePaddle/PaddleOCR)
+
+- **dots.ocr**: Specialized small VLM fine-tuned for multilingual OCR and complex document understanding. `3B`, [Github](https://github.com/rednote-hilab/dots.ocr), [Model](https://huggingface.co/rednote/dots.ocr)
+
+- **DeepSeek Janus (small variants)**: Efficient multimodal series with strong visual reasoning. `1B/1.3B`, [Model](https://huggingface.co/deepseek-ai/janus-1.3b)
 
 ## SmallVLAs
 > [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
