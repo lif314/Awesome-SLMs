@@ -51,7 +51,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 ## Insights
 - An Information Theoretic Perspective on Agentic System Design, arXiv 2025. [Paper](https://www.arxiv.org/abs/2512.21720) `SLMs are all you need in Agent system.`
-- Dhara-70M: The Optimal Architecture for Small Language Models. `70M` [Blog](https://huggingface.co/blog/codelion/optimal-model-architecture) [Model](https://huggingface.co/codelion/dhara-70m)
+- Dhara-70M: The Optimal Architecture for Small Language Models. `70M` [Blog](https://huggingface.co/blog/codelion/optimal-model-architecture) [Model](https://huggingface.co/codelion/dhara-70m) `For SLMs, the depth-to-width ratio is more important than the model architecture.`
 
 ## SmallLMs
 - Building a Small Language Model(SLM) from Scratch. [Github](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-) ![Stars](https://img.shields.io/github/stars/ChaitanyaK77/Building-a-Small-Language-Model-SLM-?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChaitanyaK77/Building-a-Small-Language-Model-SLM-)
