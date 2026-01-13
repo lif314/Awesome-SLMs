@@ -43,6 +43,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 
 ## Blogs
+- 垂直领域 Agent 落地：为什么我放弃 235B/671B，转而训练 8B. [Zhihu (一)](https://zhuanlan.zhihu.com/p/1994124775983970078) [Zhihu (二)](https://zhuanlan.zhihu.com/p/1994409280238012063)
 - 小模型层数好玄学：12/32/64层效果好，16/24/48/层效果糟. [Zhihu](https://zhuanlan.zhihu.com/p/1993674796538565507) [Source](https://huggingface.co/blog/codelion/optimal-model-architecture) `70M`
 - qwen3-0.6B这种小模型有什么实际意义和用途吗？ [Zhihu](https://www.zhihu.com/question/1900664888608691102)
 - Small Language Models are the Future of Agentic AI, NVIDIA Research. [Paper](https://arxiv.org/abs/2506.02153), [Website](https://research.nvidia.com/labs/lpr/slm-agents/), [Blog](https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/)
