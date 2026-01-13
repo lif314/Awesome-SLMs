@@ -60,7 +60,8 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 ## SmallLMs
 > [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
-
+- NanoChat: The best ChatGPT that $100 can buy. `2.2B`[Github](https://github.com/karpathy/nanochat) ![Stars](https://img.shields.io/github/stars/karpathy/nanochat?style=social) ![Last Commit](https://img.shields.io/github/last-commit/karpathy/nanochat)
+- NanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs. `124M` [Github](https://github.com/karpathy/nanoGPT) ![Stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social) ![Last Commit](https://img.shields.io/github/last-commit/karpathy/nanoGPT)
 - MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes, arXiv 2025, Facebook. `140M/360M/950M` [Paper](https://arxiv.org/abs/2509.24945) [Model](https://huggingface.co/collections/facebook/mobilellm-r1) [Github](https://github.com/facebookresearch/MobileLLM-R1) ![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM-R1?style=social) ![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/MobileLLM-R1)
 - MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases, ICML 2024. Facebook.  `125M-1.5B` [Paper](https://arxiv.org/abs/2402.14905) [Model](https://huggingface.co/collections/facebook/mobilellm) [Github](https://github.com/facebookresearch/MobileLLM) ![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/MobileLLM)
 
