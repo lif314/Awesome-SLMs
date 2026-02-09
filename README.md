@@ -77,6 +77,7 @@ This repo contains a curative list of **Small (Vision)-Language Models**. This i
 
 ##  SmallVLMs
 > [Github]() ![Stars](https://img.shields.io/github/stars/?style=social) ![Last Commit](https://img.shields.io/github/last-commit/)
+- Gemma: a family of open-weights Large Language Model (LLM) by Google DeepMind. `1B-27B` [Github](https://github.com/google-deepmind/gemma) ![Stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) ![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/gemma)
 - NVILA: Optimized Vision Language Models, NVIDIA. `2B-15B`. [Model](https://huggingface.co/collections/Efficient-Large-Model/nvila) [Github](https://github.com/NVlabs/VILA) ![Stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/NVlabs/VILA)
 - Fine-tuning Qwen-VL Series. [Github](https://github.com/2U1/Qwen-VL-Series-Finetune) ![Stars](https://img.shields.io/github/stars/2U1/Qwen-VL-Series-Finetune?style=social) ![Last Commit](https://img.shields.io/github/last-commit/2U1/Qwen-VL-Series-Finetune)
 -  Qwen3-Embedding and Qwen3-Reranker. `0.6B-8B`  [Github](https://github.com/QwenLM/Qwen3-VL-Embedding) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL-Embedding?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3-VL-Embedding)
